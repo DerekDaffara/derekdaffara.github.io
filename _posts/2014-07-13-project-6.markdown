@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2021-04-30
+img: cake.png
 alt: image-alt
-project-date: April 2014
+project-date: April 30, 2021
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: In this Specialization learners developed foundational Data Science skills to prepare them for a career or further learning that involves more advanced topics in Data Science. The specialization entailed understanding what is Data Science is and the various kinds of activities that a Data Scientist’s perform. It familiarized learners with various open source tools, like Jupyter notebooks, used by Data Scientists. It taught them about methodology involved in tackling data science problems. The specialization also provided knowledge of relational database concepts and the use of SQL to query databases. Learners completed hands-on labs and projects to apply their newly acquired skills and knowledge.
 ---
