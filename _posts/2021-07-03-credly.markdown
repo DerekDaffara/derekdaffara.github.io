@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2021-05-14
 img: credly.png
 link: https://www.credly.com/users/derek-daffara
