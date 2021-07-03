@@ -2,7 +2,8 @@
 layout: default
 modal-id: 1
 date: 2021-04-30
-img: Introduction to Data Science.png
+img: linkedin.png
+link: https://www.linkedin.com/in/derekdaffara/
 alt: image-alt
 project-date: April 30, 2021
 client: Start Bootstrap

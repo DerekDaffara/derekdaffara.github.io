@@ -1,10 +1,11 @@
 ---
 layout: default
-modal-id: 3
-date: 2021-05-14
-img: IBM Data Science I.png
+modal-id: 4
+date: 2021-05-13
+img: coursera.png
+link: https://www.coursera.org/user/a5479a8a7ac5cd86c63867ee185c1bb0
 alt: image-alt
-project-date: May 14, 2021
+project-date: May 13, 2021
 client: Start Bootstrap
 category: Web Development
 description: In this Professional Certificate learners developed and honed hands-on skills in Data Science and Machine Learning. Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills.

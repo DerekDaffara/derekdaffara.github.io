@@ -2,7 +2,8 @@
 layout: default
 modal-id: 2
 date: 2021-05-13
-img: Applied Data Science.png
+img: github.png
+link: https://github.com/derekdaffara
 alt: image-alt
 project-date: May 13, 2021
 client: Start Bootstrap

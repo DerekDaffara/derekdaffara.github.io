@@ -1,10 +1,11 @@
 ---
 layout: default
-modal-id: 4
-date: 2021-05-13
-img: IBM Data Science II.png
+modal-id: 3
+date: 2021-05-14
+img: credly.png
+link: https://www.credly.com/users/derek-daffara
 alt: image-alt
-project-date: May 13, 2021
+project-date: May 14, 2021
 client: Start Bootstrap
 category: Web Development
 description: In this Professional Certificate learners developed and honed hands-on skills in Data Science and Machine Learning. Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills.
