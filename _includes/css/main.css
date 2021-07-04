@@ -29,6 +29,14 @@ a.credlink {
     color: #fff;
 }
 
+i.credlink {
+    margin: 5px;
+}
+
+table.credlink {
+    margin: auto;
+}
+
 h1,
 h2,
 h3,
