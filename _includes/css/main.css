@@ -29,12 +29,17 @@ a.credlink {
     color: #fff;
 }
 
-i.credlink {
-    margin: 5px;
-}
-
 table.credlink {
     margin: auto;
+}
+
+table.credlink th {
+    font-size: 24px;
+}
+
+table.credlink td {
+    font-size: 17px;
+    padding: 3px;
 }
 
 h1,
